@@ -34,7 +34,7 @@ The original arbitrator is identified in the appeal record. This ensures account
 
 Appeals are not filed in this repository.
 
-To file an appeal, contact a chosen reviewing arbitrator via SimpleX Chat, pay the appeal deposit, and provide the trade ID and supporting documentation - within 7 days of the payout transaction. The full process, including the deposit, the review, and outcomes, is defined in the [Appeals Policy](https://monocle.wiki/Policies/Appeals_Policy).
+To file an appeal, contact a chosen reviewing arbitrator via SimpleX Chat, pay the appeal deposit, and provide the trade ID and supporting documentation - within 7 days of the payout transaction. The full process, including the deposit, the review, and outcomes, is defined in the [Appeals Policy](https://monoclenetwork.org/appeals-policy).
 
 ## How to verify
 
@@ -44,6 +44,9 @@ To file an appeal, contact a chosen reviewing arbitrator via SimpleX Chat, pay t
 
 ## Related documents
 
-- [Appeals Policy](https://monocle.wiki/Policies/Appeals_Policy) - the full appeals process
-- [Dispute Resolution Policy](https://monocle.wiki/Policies/Dispute_Resolution_Policy) - the initial dispute resolution process that appeals review
+- [Trading Rules](https://monoclenetwork.org/trading-rules) - the rules traders abide by
+- [Table of Penalties](https://monoclenetwork.org/table-of-penalties) - the penalties and compensation percentages for rule breakers
+- [Dispute Resolution](https://monocle.wiki/Dispute_Resolution) - an overview of the dispute resolution process
+- [Appeals Policy](https://monoclenetwork.org/appeals-policy) - the full appeals policy
+- [Dispute Resolution Policy](https://monoclenetwork.org/dispute-resolution-policy) - the full dispute resolution policy
 - [Appeals Process](https://monocle.wiki/Transparency/Appeals_Process) - what is published about appeals and how to verify it
