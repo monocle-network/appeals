@@ -50,3 +50,35 @@ To file an appeal, contact a chosen reviewing arbitrator via SimpleX Chat, pay t
 - [Appeals Policy](https://monoclenetwork.org/appeals-policy) - the full appeals policy
 - [Dispute Resolution Policy](https://monoclenetwork.org/dispute-resolution-policy) - the full dispute resolution policy
 - [Appeals Process](https://monocle.wiki/Transparency/Appeals_Process) - what is published about appeals and how to verify it
+
+## Support Monocle
+
+Monocle Network is bootstrapped. No investors, no venture funding, no network token. The network is funded entirely by its own fees, and contributors are compensated only when collected fees allow.
+
+If Monocle is useful to you, please consider supporting the network. Donations help fund contributor compensation.
+
+---
+
+### Monero Donation Address
+
+<div align="left">
+  <img src="https://github.com/monocle-network/design/blob/main/assets/qr-codes/monero-donation-address.PNG?raw=true" alt="Monero donation address">
+</div>
+<br>
+
+XMR address:
+
+`491NTUCgGiQLusEVcbY3YR9yHS58tadS6UKCzSDHE3mCVGjS8WfdzjR2oGjajr2BVb4KREj4EWh7V3gsDEj64yWZL9yxmtV`
+
+---
+
+### Bitcoin Donation Address
+
+<div align="left">
+  <img src="https://github.com/monocle-network/design/blob/main/assets/qr-codes/bitcoin-donation-address.PNG?raw=true" alt="Bitcoin donation address">
+</div>
+<br>
+
+BTC address:
+
+`bc1q73atgzspzsr95tvyf592fc9vvzja7tszsw2hv40pz7ve4ejgf6hqu9dqyt`
